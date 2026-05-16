@@ -1,5 +1,9 @@
 # Jetson / Llama.cpp Setup Guide
 
+## Accessing jetosn from other machine
+
+ssh username@JetsonIP (192.168.0.10
+
 ## Install Flatpak and Chromium
 
 ```bash
